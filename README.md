@@ -4,4 +4,4 @@ NPM     : 2106750811
 
 Kelas   : B
 
-Hobi    : Belajar PBP
+Hobi    : Belajar Tidur
